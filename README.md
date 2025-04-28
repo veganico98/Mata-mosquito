@@ -5,4 +5,4 @@
   <p>Neste projeto, foram utilizados conceitos de HTML, CSS e JS</p>
 </div>
 
-<img src="images/DashBoard - index.png">
+<img src="imagens/MataMosquito - index.png">
