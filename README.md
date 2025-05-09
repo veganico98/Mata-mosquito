@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Projeto: Jogo Mata Mosquito</h1> 
-  <img width="120px" height="120px" src="imagens/mosca">
+  <img width="120px" height="120px" src="imagens/mosca.png">
   <p>Projeto desenvolvido para aprimorar habilidades em desenvolvimento front-end.</p>
 </div>
 
@@ -23,4 +23,4 @@ Este projeto é um jogo onde precisamos clicar na mosca dentro do tempo estimado
 
 ## Preview
 
-<img src="imagens/MataMosquito - index" alt="Captura de tela do projeto">
+<img src="imagens/MataMosquito - index.png" alt="Captura de tela do projeto">
