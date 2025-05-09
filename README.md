@@ -1,8 +1,26 @@
 <div align="center">
-  <h1>Projeto Mata Mosquito</h1> 
+  <h1>Projeto: Jogo Mata Mosquito</h1> 
   <img width="120px" height="120px" src="imagens/mosca.png">
-  <p>Projeto feito no curso "Desenvolvimento Web completo" da Udemy.</p>
-  <p>Neste projeto, foram utilizados conceitos de HTML, CSS e JS</p>
+  <p>Projeto desenvolvido para aprimorar habilidades em desenvolvimento front-end.</p>
 </div>
 
-<img src="imagens/MataMosquito - index.png">
+---
+
+## Sobre o Projeto
+
+Este projeto é um jogo onde precisamos clicar na mosca dentro do tempo estimado. Foi criado com o objetivo de praticar e demonstrar conhecimentos em tecnologias front-end, com foco em Java Script.
+
+---
+
+## Tecnologias Utilizadas
+
+- **HTML5** – estrutura da página
+- **CSS3** – estilização personalizada
+- **Bootstrap** – framework para responsividade e componentes
+- **JS** – back-end
+
+---
+
+## Preview
+
+<img src="imagens/MataMosquito - index.png" alt="Captura de tela do projeto">
